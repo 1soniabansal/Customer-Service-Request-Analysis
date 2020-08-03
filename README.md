@@ -1,1 +1,1 @@
-This is a personal project and is completed for learning purpose. I used different Python libraries such as NumPy,  Pandas, SciPy,  matplotlib ,scikit-learn to complete the given analysis and visualization tasks.
+I used different Python libraries such as NumPy,  Pandas, SciPy,  matplotlib ,scikit-learn to complete the given analysis and visualization tasks.
